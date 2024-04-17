@@ -493,9 +493,7 @@
         "minVizWidth": 0,
         "orientation": "horizontal",
         "reduceOptions": {
-          "calcs": [
-            "lastNotNull"
-          ],
+          "calcs": ["lastNotNull"],
           "fields": "",
           "values": false
         },
@@ -523,10 +521,7 @@
   "refresh": "5s",
   "schemaVersion": 38,
   "style": "dark",
-  "tags": [
-    "aws",
-    "karpenter"
-  ],
+  "tags": ["aws", "karpenter"],
   "templating": {
     "list": [
       {
