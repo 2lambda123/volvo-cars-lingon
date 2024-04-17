@@ -322,10 +322,7 @@
   "refresh": "1m",
   "schemaVersion": 30,
   "style": "dark",
-  "tags": [
-    "aws",
-    "karpenter"
-  ],
+  "tags": ["aws", "karpenter"],
   "templating": {
     "list": [
       {
